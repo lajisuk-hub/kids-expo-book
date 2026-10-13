@@ -1,0 +1,10 @@
+node_modules
+.next
+.env*.local
+.vercel
+
+.vercel
+_shots
+npm.log
+public/_test
+npm.log
